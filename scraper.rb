@@ -1,3 +1,4 @@
+require 'scraperwiki'
 require 'nokogiri'
 
 #ALLE 579 TABELLENSEITEN EINLESEN
